@@ -1,7 +1,13 @@
 <template>
-  <section class="about">
-    <h2>About Me</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+  <section class="about" id="About">
+    <div class="main">
+      <h2>About Me</h2>
+      <p>Hi, my name is Muhamad Syamsul Hidayat, a Begitulah specializing in Fullstack Developers. With a background in Informatics Amikom Yogyakarta, I have 1 years of experience in Fullstack Developers. I am passionate about Design Frontend, and I believe in Work, Work, and Work!.</p>
+      <p>Over the years, I have had the privilege of working on Topup-in. My skills include Networking, and I am constantly looking to grow and take on new challenges.</p>
+      <p>Currently, I am working on Topup-in, and I am excited about the possibilities it brings. When I'm not working, which keeps me inspired and motivated.</p>
+      <p>Feel free to get in touch with me via Email or connect with me on LinkedIN. Let's create something amazing together!</p>
+    </div>
+    
   </section>
 </template>
 
@@ -12,7 +18,12 @@ export default {
 </script>
 
 <style scoped>
-.about {
-  padding: 50px 0;
+.main {
+  padding: 50px 200px;
+  background-color: #222831;
+  color: white;
+  /* width: 100%;
+  max-width: 100;
+  margin: 0 auto; */
 }
 </style>
