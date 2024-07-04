@@ -7,7 +7,7 @@
         <div class="card bg-dark h-100">
           <div class="d-flex">
             <div class="card-body">           
-                <img src="../assets/img/TopUp-in2.png" style="width: 400px;" alt="TopUp.in" class="d-flex justify-content-center align-items-center">
+                <img src="/assets/img/TopUp-in2.png" style="width: 400px;" alt="TopUp.in" class="d-flex justify-content-center align-items-center">
             </div>
             <div class="card-body ">           
                 <h5 class="card-title">TopUp.in</h5>
@@ -23,7 +23,7 @@
         <div class="card bg-dark h-100">
           <div class="d-flex">
           <div class="card-body">           
-                <img src="../assets/img/GerbangLogika.png" style="width: 400px;" alt="TopUp.in" class="d-flex justify-content-center align-items-center">
+                <img src="/assets/img/GerbangLogika.png" style="width: 400px;" alt="TopUp.in" class="d-flex justify-content-center align-items-center">
           </div>
           <div class="card-body">
             <h5 class="card-title">Simulator Gerbang Logika</h5>
