@@ -26,7 +26,7 @@
           </form>
         </div>
         <div class="d-col p-5">
-          <img src="../assets/img/2.png" alt="apa hayo" style="width: 350px;">
+          <img src="/assets/img/2.png" alt="apa hayo" style="width: 350px;">
           
         </div>
       </div>
