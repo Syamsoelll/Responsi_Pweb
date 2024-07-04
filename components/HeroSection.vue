@@ -9,12 +9,11 @@
               <div class="card bg-custom text-light">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
-                    <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="Admin" class="rounded-circle" width="150">
+                    <img src="../assets/img/Samsul.JPG" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Muhamad Syamsul Hidayat</h4>
                       <p class="mb-1">Full Stack Developer</p>
-                      <p class="font-size-sm">Kos Mbah Sedyo</p>
-                      
+                      <p class="font-size-sm">Kos Mbah Sedyo</p>                   
                       <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samhidayat132@gmail.com&su=Hello%20World&body=This%20is%20a%20test%20email" class="btn btn-primary" target="_blank">Send Email</a>
                     </div>
                   </div>

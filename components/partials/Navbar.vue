@@ -1,6 +1,6 @@
 <template>
     <div class="navbar navbar-expand-lg  navbar-dark bg-dark px-0 py-3">
-        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <nav class="navbar navbar-expand-lg bg-body-tertiary d-flex">
             <div class="container-xl d-flex">
                 <a class="navbar-brand" href="#">Soel</a>
                 <button 
@@ -9,9 +9,9 @@
                 data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" 
                 aria-expanded="false" aria-label="Toggle navigation"
                 >
-                <span class="navbar-toggler-icon"></span>
+                
                 </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
                     <a class="nav-link anim-bottom" aria-current="page" href="#">Home</a>

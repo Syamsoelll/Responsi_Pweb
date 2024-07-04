@@ -9,10 +9,12 @@
             <div class="card-body">           
                 <img src="../assets/img/TopUp-in2.png" style="width: 400px;" alt="TopUp.in" class="d-flex justify-content-center align-items-center">
             </div>
-            <div class="card-body">           
+            <div class="card-body ">           
                 <h5 class="card-title">TopUp.in</h5>
-                <p class="card-text">TopUp.in is a SiPPOB website</p>
-                <a href="https://github.com/Syamsoelll/SiPPOB-UAS" class="btn btn-primary" target="_blank">Go to the project</a>
+                <p class="card-text d-flex">TopUp.in is a SiPPOB website</p>
+                <a href="https://github.com/Syamsoelll/SiPPOB-UAS" class="btn btn-primary d-flex justify-content-center align-items-center" target="_blank">
+                  Go to the project
+                </a>
             </div>
           </div>
         </div>
@@ -26,7 +28,9 @@
           <div class="card-body">
             <h5 class="card-title">Simulator Gerbang Logika</h5>
             <p class="card-text">Logic Gate Simulator is a website for simulating logic gates</p>
-            <a href="https://github.com/Syamsoelll/Simulator-Gerbang-Logika" class="btn btn-primary" target="_blank">Go to the project</a>
+            <a href="https://github.com/Syamsoelll/Simulator-Gerbang-Logika" class="btn btn-primary d-flex justify-content-center align-items-center" target="_blank">
+              Go to the project
+            </a>
           </div>
           </div>
         </div>
