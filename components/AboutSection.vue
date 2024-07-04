@@ -11,7 +11,7 @@
           <p>Feel free to get in touch with me via Email or connect with me on LinkedIN. Let's create something amazing together!</p>
         </div>
         <div class="d-col-4 p-5">
-          <img src="/assets/img/Samsul2.jpg" alt="Samsul" style="width: 200px;" class="rounded mb-3">
+          <img src="/assets/img/samsul.jpg" alt="Samsul" style="width: 200px;" class="rounded mb-3">
            <a href="/assets/CV.pdf" class="btn btn-primary d-flex justify-content-center align-items-center" target="_blank">
               My Resume
             </a>

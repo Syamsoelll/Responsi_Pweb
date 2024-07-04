@@ -9,7 +9,7 @@
               <div class="card bg-custom text-light">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
-                    <img src="../assets/img/Samsul.JPG" alt="Admin" class="rounded-circle" width="150">
+                    <img src="../assets/img/samsul2.jpg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
                       <h4>Muhamad Syamsul Hidayat</h4>
                       <p class="mb-1">Full Stack Developer</p>
