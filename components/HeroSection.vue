@@ -14,7 +14,8 @@
                       <h4>Muhamad Syamsul Hidayat</h4>
                       <p class="mb-1">Full Stack Developer</p>
                       <p class="font-size-sm">Kos Mbah Sedyo</p>
-                      <button type="button" class="btn btn-primary"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=samhidayat132@gmail.com&su=Hello%20World&body=This%20is%20a%20test%20email" target="_blank">Send Email</a></button>
+                      
+                      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samhidayat132@gmail.com&su=Hello%20World&body=This%20is%20a%20test%20email" class="btn btn-primary" target="_blank">Send Email</a>
                     </div>
                   </div>
                 </div>
